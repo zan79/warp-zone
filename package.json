@@ -1,0 +1,24 @@
+{
+  "name": "warp-zone",
+  "version": "1.0.0",
+  "description": "Warp Zone - A collection of project links",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zan79/warp-zone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zan79/warp-zone/issues"
+  },
+  "homepage": "https://github.com/zan79/warp-zone#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
